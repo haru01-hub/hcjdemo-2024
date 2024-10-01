@@ -69,6 +69,6 @@ button {
 }
 
 button:hover {
-  color: red;
-  background-color: yellow;
+  color: rgb(7, 52, 130);
+  background-color: aquamarine;
 }
